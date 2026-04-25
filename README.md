@@ -1,4 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Fabio Sinobre! 👋
+
+### Engenheiro da Computação & Professor de Tecnologia
+
+Sou Bacharel em **Engenharia da Computação** pela UNIVESP e atuo como Professor na rede estadual de São Paulo, lecionando no Ensino Médio Técnico. Meu objetivo é unir o rigor técnico da engenharia com as bases pedagógicas para formar os novos profissionais do mercado de tecnologia.
+
+---
+
+### 🎓 Formação e Educação
+* **Bacharelado em Engenharia da Computação** - UNIVESP.
+* **Licenciatura em Física** - IFSP (cursado 6 semestres de 8). Essa base científica sólida fundamenta minha visão lógica e analítica na computação.
+* **Foco Pedagógico:** Atualmente estudo profundamente a **Pedagogia Histórico-Crítica (PHC)** e as teorias de **Vygotsky**, aplicando a zona de desenvolvimento proximal (ZDP) no ensino técnico de tecnologia.
+
+---
+
+### 💻 Competências Técnicas
+* **Linguagens:** Java, Python, PHP, JavaScript.
+* **Frontend:** HTML5, CSS3, React JS.
+* **Backend & Infra:** Desenvolvimento de Sistemas, Banco de Dados (SQL), Redes de Computadores.
+* **IA & Inovação:** Pesquisa constante sobre Inteligência Artificial aplicada ao desenvolvimento e à educação.
+
+---
+
+### ⚙️ Gestão e Metodologias
+* **Metodologias Ágeis:** Scrum, Design Thinking.
+* **Qualidade e Processos:** UML, Clean Code e certificação **Six Sigma Green Belt**.
+
+---
+
+### 🚀 No meu GitHub você encontrará:
+* Projetos de aula em Python (Flask/Django) e PHP.
+* Exercícios de lógica de programação e algoritmos.
+* Documentação técnica para suporte aos meus alunos do curso técnico.
+
+---
+
+### 📫 Como me encontrar:
+* **Localização:** Guarulhos, SP.
+* **LinkedIn:** [Insira seu link aqui]
+
+---
+*“Onde quer que haja mulheres e homens, há sempre o que fazer, há sempre o que ensinar, há sempre o que aprender.” – Paulo Freire*
 
 <!--
 **fabiosinobre-coder/fabiosinobre-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
