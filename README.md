@@ -1,4 +1,4 @@
-# Olá, eu sou o Fabio Sinobre! 👋
+# <div align="center"> Olá, eu sou o Fabio Sinobre! 👋</div>
 
 ### Engenheiro da Computação & Professor de Tecnologia
 
@@ -39,7 +39,9 @@ Sou Bacharel em **Engenharia da Computação** pela UNIVESP e atuo como Professo
 * **LinkedIn:** [Insira seu link aqui]
 
 ---
-*“Onde quer que haja mulheres e homens, há sempre o que fazer, há sempre o que ensinar, há sempre o que aprender.” – Paulo Freire*
+*“Onde quer que haja mulheres e homens, há sempre o que fazer, há sempre o que ensinar, há sempre o que aprender.” (Paulo Freire, 1996)*
+
+###### <div align="center">Livro: Pedagogia da Autonomia: Saberes Necessários à Prática Educativa</div>
 
 <!--
 **fabiosinobre-coder/fabiosinobre-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
