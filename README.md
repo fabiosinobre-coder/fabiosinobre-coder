@@ -3,7 +3,9 @@
 ### Engenheiro da Computação & Professor de Tecnologia
 
 Sou Bacharel em **Engenharia da Computação** pela UNIVESP e atuo como Professor na rede estadual de São Paulo, lecionando no Ensino Médio Técnico. Meu objetivo é unir o rigor técnico da engenharia com as bases pedagógicas para formar os novos profissionais do mercado de tecnologia.
-
+### Video de apresentação
+ <p><a href="https://www.youtube.com/watch?v=s9gQgTmqaHQ">Apresentation video</a></p>
+ 
 ---
 
 ### 🎓 Formação e Educação
@@ -37,6 +39,12 @@ Sou Bacharel em **Engenharia da Computação** pela UNIVESP e atuo como Professo
 ### 📫 Como me encontrar:
 * **Localização:** Guarulhos, SP.
 * **LinkedIn:** [Insira seu link aqui]
+<div>
+  <figure>
+    <h3 style="color: red;background-color:green;">Linkedin</h3>
+    <img src="my_linkedin.png" alt="QR-Code para meu linkedin" width= "160px" heigth="160">
+  </figure>
+</div>
 
 ---
 *“Onde quer que haja mulheres e homens, há sempre o que fazer, há sempre o que ensinar, há sempre o que aprender.” (Paulo Freire, 1996)*
