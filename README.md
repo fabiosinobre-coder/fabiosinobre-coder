@@ -39,7 +39,7 @@ Sou Bacharel em **Engenharia da Computação** pela UNIVESP e atuo como Professo
 ### 📫 Como me encontrar:
 * **Localização:** Guarulhos, SP.
 * **LinkedIn:** [Insira seu link aqui]
-<div>
+<div align="center">
   <figure>
     <h3 style="color: red;background-color:green;">Linkedin</h3>
     <img src="my_linkedin.png" alt="QR-Code para meu linkedin" width= "160px" heigth="160">
